@@ -1,0 +1,5 @@
+name: NandayoAPI
+version: '1.0-BETA'
+main: org.nandayo.NandayoAPI
+api-version: '1.21'
+authors: [ yoshii01 ]
